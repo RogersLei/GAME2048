@@ -1,0 +1,31 @@
+@charset "utf-8";
+body{
+	font-size: 12px;
+	font-family: "Microsoft YaHei" !important;
+	margin: 0;
+	padding: 0;
+	color: #333;
+}
+ul,li,p,h1,h2,h3,h4,h5,h6,dl,dt,dd{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.lf{
+	float: left;
+}
+.rt{
+	float: right;
+}
+input{
+	border: none;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+	padding: 0 15px;
+}
+.clear{
+	clear: both;
+}
